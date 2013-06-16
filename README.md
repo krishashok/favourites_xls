@@ -9,5 +9,5 @@ A script to download all your favourited tweets to an excel spreadsheet. You wil
 
 **Usage**
 	
-python favourites_xls.py all (for all faves)
-python favourites_xls.py 2 (for 2 pages of recently faved tweets)
+1. python favourites_xls.py all (for all faves)
+2. python favourites_xls.py 2 (for 2 pages of recently faved tweets)
